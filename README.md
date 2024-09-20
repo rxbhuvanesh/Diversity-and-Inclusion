@@ -1,2 +1,2 @@
 # Diversity-and-Inclusion
-Repository for analyzing road accident data using Excel to identify trends and factors influencing accidents, featuring datasets, pivot tables, and visualizations.
+Repository for initiatives and research focused on promoting diversity and inclusion in the workplace, featuring data analyses, best practices, and resources for fostering an inclusive environment.
